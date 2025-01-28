@@ -1,6 +1,4 @@
 
-Here’s a refined version of your project write-up tailored specifically for GitHub. It focuses on structure, technical details, and professionalism to make your repository appealing and clear.
-
 🚑 Transforming Healthcare with Power BI: **Hospital Emergency Room Dashboard**
 
 Thrilled to share my recent Power BI project: Hospital Emergency Room Dashboard!
